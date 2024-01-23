@@ -30,7 +30,7 @@ const pokelist =
         {
         "number": "06",
         "name": "Charizard",
-        "image": "https://rawcdn.githack.com/ricardoolivaalonso/Codepen/b8f0008fb1089420c3667ec249203b0ea648d46d/pokedex/img/charizard.gif",
+        "image": "https://pixeldrain.com/api/file/ZHEN8qf5",
         "audio": "https://raw.githubusercontent.com/ricardoolivaalonso/Codepen/master/pokedex/audio/charizard.mp3",
         "tagA": 'fire',
         "tagB": 'flying',
