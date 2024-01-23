@@ -32,16 +32,16 @@ const pokelist =
         "name": "CPeakyBlinder",
         "image": "https://pixeldrain.com/api/file/L1k5aC98",
         "audio": "https://pixeldrain.com/api/file/LF4n6uTx",
-        "tagA": 'fire',
+        "tagA": '(●'◡'●)',
         "tagB": '♪',
         },
         {
         "number": "01",
-        "name": "Bulbasaur",
-        "image": "https://pixeldrain.com/api/file/y4GtuciQ",
-        "audio": "https://raw.githubusercontent.com/ricardoolivaalonso/Codepen/master/pokedex/audio/bulbasaur.mp3",
-        "tagA": 'grass',
-        "tagB": 'poison',
+        "name": "Timbaland",
+        "image": "https://pixeldrain.com/api/file/cCN5mpR6",
+        "audio": "https://pixeldrain.com/api/file/3ErZWVL8",
+        "tagA": 'Thanks for',
+        "tagB": ' Visiting..',
         },
     ]
 let con = -1
