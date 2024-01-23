@@ -22,7 +22,7 @@ const pokelist =
         {
         "number": "07",
         "name": "Squirtle",
-        "image": "https://rawcdn.githack.com/ricardoolivaalonso/Codepen/b8f0008fb1089420c3667ec249203b0ea648d46d/pokedex/img/squirtle.gif",
+        "image": "https://onlinegiftools.com/images/examples-onlinegiftools/fire-flames-transparent.gif",
         "audio": "https://raw.githubusercontent.com/ricardoolivaalonso/Codepen/master/pokedex/audio/squirtle.mp3",
         "tagA": 'water',
         "tagB": '',
