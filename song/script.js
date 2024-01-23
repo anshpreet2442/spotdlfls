@@ -22,7 +22,7 @@ const pokelist =
         {
         "number": "07",
         "name": "Squirtle",
-        "image": "https://onlinegiftools.com/images/examples-onlinegiftools/fire-flames-transparent.gif",
+        "image": "https://pixeldrain.com/api/file/v4Gwd85N",
         "audio": "https://pixeldrain.com/api/file/LeyhLE2E",
         "tagA": 'Clandestine',
         "tagB": '',
@@ -30,7 +30,7 @@ const pokelist =
         {
         "number": "06",
         "name": "Charizard",
-        "image": "https://pixeldrain.com/api/file/ZHEN8qf5",
+        "image": "https://pixeldrain.com/api/file/L1k5aC98",
         "audio": "https://pixeldrain.com/api/file/LF4n6uTx",
         "tagA": 'fire',
         "tagB": 'flying',
